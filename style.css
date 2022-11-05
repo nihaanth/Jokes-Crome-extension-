@@ -1,0 +1,19 @@
+body{
+    width: 250px;
+    height: 250px;
+    background-color:rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    display: inner-flex;
+    margin: auto 15px;
+    font: size 25px;
+    color: rgb(64, 151, 173);
+    border-radius: 20px;
+    border : 1px solid blue;
+    padding: 20px;
+
+}
+
